@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Adicolor Classics Joggers",
+    "category": "Bag",
+    "price": 63.85,
+    "image": "https://s3-alpha-sig.figma.com/img/473c/79e5/7f0ddaf5cedfc025e9bf565db17303d1?Expires=1710115200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=qyfOdf4Tgi3LgIDNRxpwNgRV3MyVJHdxZ~ynw6mU6JfTqP~wOYruCytI9~gSINEdhRhG-g0mbVapMTBkuE8np-05xNc~USDVKCBXiAfLganDvANEFxHXNKapt5lYUf8D2ya5o~3YV9D-8EPWeaBD4thKUdPL8xuWMlais-p8ymzy869GqNSDTEI0qKj0dWegoST1Lf1RihA1nr5vXhL50FSLhqih7YB0s0l5LlqB6fs0qiWTDuT7sVeP6SUndonRUpqRKeiNUyQuw8YKq9T5HlpOR1C2nJar3Y7WPnCRCHQO4DO6ZSV6V~eDFHL-6yVhvc7-utkWsbBFyyzt6-2X~w__",
+    "status": "Best Selers"
+  },
+  {
+    "id": 2,
+    "title": "Nike Sportswear Futura Luxe",
+    "category": "Dress",
+    "price": 130.0,
+    "image": "https://s3-alpha-sig.figma.com/img/47f3/5eb9/4ce3132183987deab0864cb133a3be87?Expires=1710115200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=C6tHG8Olw6bCwA8b3TuykWeZjuKZtkwg-TABiMij4WX28TUN4tX1dPU4Kk0wQoRWfe5GS9jtH3q7tzGqJGF16m62NarT1WbIgyE~oqjb4UFXNM~dQ48~3H7uPY7lZ1R5QJ8gNwAq70H1XPFf2nPc7qco~mQtNOxjwf-RL39Hm9QXYqKu1mULch98hq7jAkN71RN4s2gAqM-FaXmbl7XOimrBTRYvRzqdr1WB0d4NkxCtstsBZ14WAzjLLPdu0uFjK-pQ0IwdqR9RQez5EaAtyxfihqVYQO6hmbQrdGD8IfqNYSulWNVJL3tHGQ-eMpP5Mpe2hfu1WUuQLNS3JBnN8Q__",
+    "status": "Best Selers"
+  },
+  {
+    "id": 3,
+    "title": "Geometric print Scarf",
+    "category": "Dress",
+    "price": 53.0,
+    "image": "https://s3-alpha-sig.figma.com/img/af4a/5014/2d4b7dc4ae5baba0454a849567813ee5?Expires=1710115200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=YQxXK4o6WGCSGhmi29PXxJHs6hI6HyrW7WmHXG-ZkB1IZMc9LeBYzjWEDTgaBVkEvlxDXJVdTE4Va3apglPM0KbzRTvs6q4lYahn1nNm8RBcpXdFtbelRQS1RWfSnxhhQwzJsA5unBTKrK~kA3DPiLRmwVoPoPgXlaQ1mo7mXoJkS3CRDRU4j1DZuJ6bYq45MLUZHTVYpxxde32HxhNv6wOaehRTR1JrBgzcGD3lo7JgWjVNkvUUQWhK6B6HJALpkwpoCLtRr8CPJ9l632xrohGGHVgE4Mwtl~3U3gGpDG-Te83BYHxMJW5c5tXGlA4JaPFap79TNKrO8tsuD42QFA__",
+    "status": "Best Selers"
+  },
+  {
+    "id": 4,
+    "title": "Yellow Reserved Hoodie",
+    "category": "Hoodies",
+    "price": 63.85,
+    "image": "https://s3-alpha-sig.figma.com/img/e937/6e4c/59cefba01e3e78e1745492533120f241?Expires=1710115200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=hIhn10tYOoJ9aF7DY5l1iVoC-CBKwFqIVujMbs6BFG4Nb2nX30woLvlIjOaLzjhAl36L74Y9NZanueZ9NG9umnf9uIRe28OkB~B9~hq7uhvzXzk66ZJbcFjxW1n1fW-mMb7iTzsKCPzlZoK-UKmqgLYfwX1GfTxleF0y2nFvZ~T3vqAhTRasNlDHs7bzqWkb6KkdcZB9SjZSHPM89hMym8ze8qtcbqW29OWIEM2vSYsegMxd9Zgzlm3quclAy0wVaIBAhO9ns477jtW1ymmJGiLzmWRwYBQs1XLFO-ET6Uj1-m~UibMVcbhRQUXBcMtNR3pMPiHgXiJqNk833tzIxg__",
+    "status": "New Arriaval"
+  },
+  {
+    "id": 5,
+    "title": "Basic Dress Green",
+    "category": "Dress",
+    "price": 236.0,
+    "image": "https://s3-alpha-sig.figma.com/img/7511/cf30/17dcf94a3c2b0682e0175038711dc675?Expires=1710115200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=CbOnNiTt0ftrRD8ZBgMfKW3GEug~9AWw2VUlbPHK5ihiE7AU5RP0Icom1WHSbgmYrXRGhnYWImpBUPUoYmu0F8Q-1V226qCaKbBu9MEDpGkfx6ydLsx9eo9qjyAH2vF88omGKDrOEhgWtFgc5qSRjzkQE5SSmNm~yvHByvmJFV8S7aWisekzv31Mzn8pb8lLnynxezEyldfmwD-EJhuTfwzcnpmqVs827aaSg-kL0bCVDDFsHC6piWZr1fuRnue-Y3izCBR-c6AAyHdR0Y8MpnB53O--Dt1GHobMoMcirtNVmO7EHBH14P-28NvM-6j5KiTbVG~Ll-XDtxwvW6Xf-w__",
+    "status": "New Arriaval"
+  },
+  {
+    "id": 6,
+    "title": "Nike Air Zoom Pegasus",
+    "category": "Shoe",
+    "price": 198.0,
+    "image": "https://s3-alpha-sig.figma.com/img/8c9e/f095/3413bfd7ff10248eb38966b45bdb87ec?Expires=1710115200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=qfvaQ2eaeECwlVWOdCghn6VcDwnCYlpqwHOEyjs6VRQkW6V6x5lB9PouLqtWanXgotRvi0IpbP1HlXyMHVkcRiSXI54j1Bp~RfRlkKthV7XuBwc-fIiYQ2tsTFNcrPPJMflHk-2LPponJSftmFhO2xCZa0LVzcAFY8takOC7Lx-ReYdFTcFlzxosGZavZQqgxWGJPqtaH0x55DYhXRHQlcB1ySNRzlGgDR4h~FRkUpHH9KeNV6sFSXx6Zk2fkkeBWle7Y604aM1XJ-xYiwqIuI9pz5qsXauL5sQ5a~DesgwAWxn4ICrDDGSkWhwuei0cLHPmJDGSyauwZIxRbljK0Q__",
+    "status": "Best Selers"
+  },
+  {
+    "id": 7,
+    "title": "Nike Repel Miler",
+    "category": "Hoodies",
+    "price": 120.5,
+    "image": "https://s3-alpha-sig.figma.com/img/cf8b/949a/adc39403275a505e27d875c6a6217227?Expires=1710115200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=I8F7HupxIx44XlE~FhY5o8oO41mv5fSY2jVtSflhPuEHaILvW1~gp3z9NWktW9nzOjiaArRAzs~jr~zcgMLjUTbJZ3CifCBu63OCgrApZb74KF4tYBX8hxQiUFtJqLEnShqU3DtCOjQvPNr3ftpCASa4gAxIGkROlDqdY7qeMeklEcgPD5vUa0QTl1jtk~nv8ESXH56xm1Jfon7XY~E37ZIFPWIyi0-uAY5dpZuZXW8Nwv4lfXbTdKUWR3yp4gvgu4a90bACpS3vmGA8rcmI~uNgCUuMODfSsEFZIRRaLugTbgvOokx-9RGnomKleReMOAHZgrjKi6ZZ2hmwSHl3JQ__",
+    "status": "Best Selers"
+  },
+  {
+    "id": 8,
+    "title": "Nike Sportswear Futura Luxe",
+    "category": "Glasses",
+    "price": 160.0,
+    "image": "https://s3-alpha-sig.figma.com/img/c89f/7ff3/20c107eea7b00979aefef0fa0c469dbc?Expires=1710115200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Z2l147b-LsQwoiVkTBxK03wziuhBhBSfraRTvpKR~dLUaKeOGB8E4jCQVG~lzYvS8iUCcbJlRZfKUmSpldHRaimDs9uelp~KmJaCRy3V7V9tv6Ngp8vvwboXTXKXOSvZ4Z7T6QFv0UZ83bjNY0Nm3T2QUFLZoNY6D5EYZKumsjO9YQukeV8ogcxdLyB-XoBtXPg3gE3bDA3o0Pw8EMTnlHskCCF9vSqGADgOhmyTC3AIvzPBWHOmzA1OXVVt5SuRQdmqQtkInn-DyXKFUZy7Q~hMf4VMEAvZKFGTTa1Z1R4SZpX3jOkapKt7yP2~PnWgIwKBS8jdz88dqEVYnGWfpQ__"
+  }
+]
